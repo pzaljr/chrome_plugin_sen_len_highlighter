@@ -1,0 +1,11 @@
+{
+    "name": "SenLenHighlighter",
+    "version": "1.0",
+    "description": "The simple, tweakable sentence length highlighter.  Visualize your expression!  Color-code sentences based on length.",
+    "manifest_version": 2,
+    "icons": { 
+        "16": "senlen16.png",
+        "48": "senlen48.png",
+        "128": "senlen128.png" 
+    }
+}
