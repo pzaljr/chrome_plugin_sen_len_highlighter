@@ -1,4 +1,5 @@
-# chrome_plugin_sen_len_highlighter
+Sentence Length Highlighter (Chrome)
+======
 Highlights sentences in a paragraph differently based on length-of-sentence.  (WIP)
 
 Features:
